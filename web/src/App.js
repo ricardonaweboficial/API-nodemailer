@@ -6,6 +6,7 @@ import iconLoading from './assets/icon.png';
 
 import './global.css';
 import './App.css';
+import './response-design.css';
 
 function App() {
 	const [ fromMail, setFromMail ] = useState('');
