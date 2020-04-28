@@ -1,0 +1,15 @@
+@media ( max-width: 880px ) {
+	body {
+		background-size: 100% 100%;
+	}
+}
+
+@media ( max-width: 350px ) {
+	#app form {
+		border-radius:0;
+	}
+
+	#app form:hover {
+		box-shadow: inset 0 0 10px #0f0f0f;
+	}
+}
